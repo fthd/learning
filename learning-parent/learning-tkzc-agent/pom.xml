@@ -43,7 +43,7 @@
                             <addClasspath>true</addClasspath>
                         </manifest>
                         <manifestEntries>
-                            <Premain-Class>com.learning.tkzc.agent.test.JavaAgent</Premain-Class>
+                            <Premain-Class>com.learning.tkzc.agent.JavaAgent</Premain-Class>
                         </manifestEntries>
                     </archive>
                     <descriptorRefs>

@@ -1,4 +1,4 @@
-package com.learning.tkzc.agent.test;
+package com.learning.tkzc.agent;
 
 import org.junit.Test;
 
