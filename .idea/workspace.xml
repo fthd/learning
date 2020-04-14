@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ec11d91-1959-48c5-b3f7-e04995acefc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/ProgramTools/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\ProgramTools\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1W08yWa1yuy09WHBufMnySxEAgv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\fountainhead\learning\learning-parent\learning-tkzc-agent\src\main\resources\services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\fountainhead\learning\learning-parent\learning-tkzc-agent\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.JavaAgentTest.test02">
+    <configuration name="FileTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning-tkzc-agent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.tkzc.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learning.tkzc.file" />
+      <option name="MAIN_CLASS_NAME" value="com.learning.tkzc.file.FileTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaAgentTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning-tkzc-agent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.tkzc.agent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learning.tkzc.agent" />
+      <option name="MAIN_CLASS_NAME" value="com.learning.tkzc.agent.JavaAgentTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySpringBootTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning-tkzc-agent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.tkzc.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learning.tkzc.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.learning.tkzc.springboot.MySpringBootTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySpringBootTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning-tkzc-agent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.tkzc.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learning.tkzc.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.learning.tkzc.springboot.MySpringBootTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning-tkzc-agent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.tkzc.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learning.tkzc.string" />
+      <option name="MAIN_CLASS_NAME" value="com.learning.tkzc.string.StringTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JavaAgentTest.test02" />
+        <item itemvalue="JUnit.MySpringBootTest.test" />
+        <item itemvalue="JUnit.MySpringBootTest" />
+        <item itemvalue="JUnit.FileTest.test01" />
+        <item itemvalue="JUnit.StringTest.test02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec11d91-1959-48c5-b3f7-e04995acefc8" name="Default Changelist" comment="" />
+      <created>1578275406844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578275406844</updated>
+      <workItem from="1578275408771" duration="10592000" />
+      <workItem from="1578360225260" duration="1417000" />
+      <workItem from="1578362582138" duration="3728000" />
+      <workItem from="1578368212885" duration="1801000" />
+      <workItem from="1578484663985" duration="1240000" />
+      <workItem from="1578534088612" duration="4693000" />
+      <workItem from="1578618140823" duration="5358000" />
+      <workItem from="1578909211683" duration="1159000" />
+      <workItem from="1578971759988" duration="1266000" />
+      <workItem from="1578996014964" duration="4865000" />
+      <workItem from="1579052732340" duration="749000" />
+      <workItem from="1579058442603" duration="1793000" />
+      <workItem from="1579067495603" duration="11115000" />
+      <workItem from="1579092160400" duration="20000" />
+      <workItem from="1579092239676" duration="57000" />
+      <workItem from="1579092919842" duration="13000" />
+      <workItem from="1579166931468" duration="1261000" />
+      <workItem from="1580798291717" duration="6664000" />
+      <workItem from="1580890310827" duration="913000" />
+      <workItem from="1581303688823" duration="2877000" />
+      <workItem from="1581643653656" duration="28000" />
+      <workItem from="1581643699650" duration="225000" />
+      <workItem from="1583118024401" duration="1492000" />
+      <workItem from="1586846857237" duration="613000" />
+    </task>
+    <task id="LOCAL-00001" summary="创建Demo父工程">
+      <created>1578275840739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578275840739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java agent测试案列">
+      <created>1578276523072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578276523072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java agent测试案列">
+      <created>1578290497984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578290497984</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java agent测试案列">
+      <created>1578290883887</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578290883887</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JAVA SPI机制">
+      <created>1578298491071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578298491071</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Byte Dubby机制">
+      <created>1578367785630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578367785630</updated>
+    </task>
+    <task id="LOCAL-00007" summary="测试ThreadLocal">
+      <created>1578571423110</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578571423110</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <created>1579066469009</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579066469009</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建Demo父工程" />
+    <MESSAGE value="java agent测试案列" />
+    <MESSAGE value="JAVA SPI机制" />
+    <MESSAGE value="Byte Dubby机制" />
+    <MESSAGE value="测试ThreadLocal" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578632100012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578632100012" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1581304492207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581304492207" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1579066467417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579066467417" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1581643922691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581643922691" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583119516824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583119516824" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583119516824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583119516824" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583119516824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583119516824" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583119516824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583119516824" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580816955067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580816955067" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580816955067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580816955067" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580816955067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580816955067" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580816955067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580816955067" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1581303863617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581303863617" />
+    <state x="88" y="18" width="998" height="710" key="SettingsEditor" timestamp="1579079412445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="18" width="998" height="710" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579079412445" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579066481397">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579066481397" />
+    <state x="98" y="99" key="new project wizard" timestamp="1578276408609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="98" y="99" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578276408609" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578298207228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578298207228" />
+  </component>
+</project>
