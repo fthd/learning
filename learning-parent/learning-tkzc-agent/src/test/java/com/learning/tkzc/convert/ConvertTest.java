@@ -1,7 +1,9 @@
 package com.learning.tkzc.convert;
 
 import org.junit.Test;
+import org.springframework.util.StringUtils;
 
+import java.util.Arrays;
 import java.util.Map;
 
 public class ConvertTest {
@@ -34,6 +36,30 @@ public class ConvertTest {
 
     private void print(String columnName) {
         System.out.println(columnName.substring(0, 1).toLowerCase() + columnName.substring(1));
+    }
+
+
+    @Test
+    public void test03() {
+        System.out.println(-4 << 1);
+
+        System.out.println(Integer.numberOfLeadingZeros(-10));
+        System.out.println(Integer.numberOfTrailingZeros(-4));
+
+        System.out.println(1 << (32 - Integer.numberOfLeadingZeros(1024 - 1)));
+        System.out.println(1 << (32 - Integer.numberOfLeadingZeros(3- 1)));
+
+    }
+
+
+    @Test
+    public void test04() {
+        System.out.println("DATAMIRRORING_REGISTER".toLowerCase());
+
+        StringBuilder sb = new StringBuilder();
+        Arrays.asList("QA_hhh_a".split("_")).forEach(temp -> sb.append(StringUtils.capitalize(temp)));
+        String str = StringUtils.uncapitalize(sb.toString());
+        System.out.println(str);
     }
 
 }
